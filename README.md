@@ -16,16 +16,16 @@
 </table>
 
 
-You can download the [mapping file](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/HCP360_to_Yeo7_Mapping.csv) directly, or generate it yourself using the script below.
+## You can download the [mapping file](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/HCP360_to_Yeo7_Mapping.csv) directly, or generate it yourself using the script below.
 
-## step1: get yeo
+### step1: get yeo
 `python fetch_yeo.py` or [yeo file](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_LiberalMask.nii.gz)
 
-## step2: get hcp360
+### step2: get hcp360
 [hcp link](https://github.com/brainspaces/glasser360) or [hcp file](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/glasser360MNI.nii.gz)
 
-## step3: resample hcp360 to yeo size
+### step3: resample hcp360 to yeo size
 `python resample_hcp2yeo.py`
 
-## step4: mapping hcp360 to yeo
+### step4: mapping hcp360 to yeo
 `python mapping_hcp2yeo.py`
