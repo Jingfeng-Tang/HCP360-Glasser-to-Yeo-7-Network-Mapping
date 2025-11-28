@@ -1,6 +1,10 @@
 # HCP360 (Glasser) 到 Yeo-7 网络映射
 
+<div align="center">
 
+[English](./README.md) | **简体中文**
+
+</div>
 
 本项目旨在实现 **HCP MMP 1.0 (Glasser 360)** 图谱与 **Yeo 2011 (7 Networks)** 功能分区之间的映射。通过将图谱重采样至同一空间并计算空间重叠率，本项目将 Glasser 图谱中的 360 个皮层区域分配到了 7 个经典的 Yeo 功能子网络中。
 
