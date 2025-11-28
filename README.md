@@ -36,7 +36,10 @@ Ensure your Python environment has the necessary libraries installed for neuroim
 
 ### 1. Acquire Yeo Atlas
 Obtain the Yeo 2011 7-Network atlas in MNI152 space.
-* **Script:** `python fetch_yeo.py`
+* **Run:**
+    ```bash
+    python fetch_yeo.py
+    ```
 * **Direct Download:** [Yeo2011_7Networks_MNI152.nii.gz](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_LiberalMask.nii.gz)
 
 ### 2. Acquire HCP360 Atlas
