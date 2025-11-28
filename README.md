@@ -4,7 +4,7 @@
 **English** | [简体中文](./README_zh-CN.md)
 
 </div>
-This project facilitates the mapping between the **HCP MMP 1.0 (Glasser 360)** atlas and the **Yeo 2011 (7 Networks)** functional parcellation. By resampling the atlases into a common space and calculating spatial overlap, we assign each of the 360 Glasser cortical regions to one of the 7 canonical Yeo functional networks.
+This project facilitates the mapping between the **HCP MMP 1.0 (Glasser 360)** atlas and the **Yeo 2011 (7 Networks)** functional parcellation. By resampling the atlases into a common space and calculating spatial overlap, this project assign each of the 360 Glasser cortical regions to one of the 7 canonical Yeo functional networks.
 
 <table>
   <tr>
