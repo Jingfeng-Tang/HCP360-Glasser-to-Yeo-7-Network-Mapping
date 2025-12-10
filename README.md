@@ -30,13 +30,21 @@ If you strictly require the final lookup table and do not need to run the proces
 
 This CSV contains the correspondence between Glasser ROI IDs ,Yeo network labels and confidence.
 1: 'Visual (视觉)'
+
 2: 'Somatomotor (体感运动)'
+
 3: 'Dorsal Attention (背侧注意)'
+
 4: 'Ventral Attention (腹侧注意)'
+
 5: 'Limbic (边缘系统)'
+
 6: 'Frontoparietal (额顶控制)'
+
 7: 'Default Mode (默认模式)'
+
 0: 'Unassigned (未分配)'
+
 ---
 
 ## 🚀 Usage
