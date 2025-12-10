@@ -30,6 +30,8 @@ If you strictly require the final lookup table and do not need to run the proces
 
 This CSV contains the correspondence between Glasser ROI IDs ,Yeo network labels and confidence.
 
+0: 'Unassigned (未分配)'
+
 1: 'Visual (视觉)'
 
 2: 'Somatomotor (体感运动)'
@@ -44,7 +46,7 @@ This CSV contains the correspondence between Glasser ROI IDs ,Yeo network labels
 
 7: 'Default Mode (默认模式)'
 
-0: 'Unassigned (未分配)'
+
 
 ---
 
