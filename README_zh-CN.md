@@ -29,7 +29,24 @@
 
 * **映射文件:** [HCP360_to_Yeo7_Mapping.csv](https://github.com/Jingfeng-Tang/HCP360-Glasser-atlas-mapping-Yeo-7-subnetwork/blob/main/HCP360_to_Yeo7_Mapping.csv)
 
-该 CSV 文件包含了 Glasser ROI ID 与 Yeo 网络标签之间的对应关系。
+该 CSV 文件包含了 Glasser ROI ID，Yeo 网络标签和置信度之间的对应关系。
+
+
+0: 'Unassigned (未分配)'
+
+1: 'Visual (视觉)'
+
+2: 'Somatomotor (体感运动)'
+
+3: 'Dorsal Attention (背侧注意)'
+
+4: 'Ventral Attention (腹侧注意)'
+
+5: 'Limbic (边缘系统)'
+
+6: 'Frontoparietal (额顶控制)'
+
+7: 'Default Mode (默认模式)'
 
 ---
 
